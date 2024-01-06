@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/RayhungKao/rayhungkao/master/profile-summary-card-output/blueberry/4-productive-time.svg)
-```
-
-    
